@@ -1,4 +1,4 @@
-# Personalized E-Commerce Recommender System
+# BERT_Driven_Framework_for_Enhanced_Sentiment_Analysis_and_E_Commerce_Recommendations
 
 ## 🚀 Overview
 Welcome to the future of personalized shopping! This project introduces an innovative recommender system that marries **cutting-edge sentiment analysis** and **collaborative filtering techniques** to deliver highly customized product recommendations. By leveraging advanced machine learning models and user feedback, this system redefines how e-commerce platforms understand and cater to individual preferences.
@@ -39,15 +39,11 @@ This improvement highlights the transformative power of combining sentiment anal
 ## 📥 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nitish272003/recommender-system.git
+   git clone https://github.com/nitish272003/Mini-Project.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd recommender-system
-   ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
+   cd Mini-Project
    ```
 
 ## 🛠️ Usage
