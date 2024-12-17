@@ -69,5 +69,5 @@ This improvement highlights the transformative power of combining sentiment anal
 We welcome your contributions! Fork this repository and submit a pull request to share your ideas and improvements.
 
 ## 📧 Contact
-Have questions or suggestions? Reach out at [nitish.kssaravanan@gmail,com](mailto:nitish.kssaravanan@gmail.com).
+Have questions or suggestions? Reach out at [nitish.kssaravanan@gmail.com](mailto:nitish.kssaravanan@gmail.com).
 
